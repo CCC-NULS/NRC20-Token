@@ -1,1 +1,1 @@
-# nuls-nrc20
+# nuls-standard-token
